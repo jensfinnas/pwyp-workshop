@@ -15,12 +15,11 @@ These are some of the questions you could try to answer:
 
 ### Data
 
-- [data/resource_governance_index.xlsx](https://github.com/jensfinnas/pwyp-workshop/tree/master/data/resource_governance_index.xlsx) is a collection of data based on the countries in the Revenue Watch Report report. 
-- [data/eiti_report_gov_revenues.xlsx](https://github.com/jensfinnas/pwyp-workshop/tree/master/data/eiti_report_gov_revenues.xlsx) contains all the data from the EITI reports.
-- [data/hdi_original_data.xlsx](https://github.com/jensfinnas/pwyp-workshop/tree/master/data/hdi_original_data.xlsx) is a reference file with data from Human Development Index.
-- [data/hdi_selected_indicators.xlsx](https://github.com/jensfinnas/pwyp-workshop/tree/master/data/hdi_selected_indicators.xlsx) is a collection of key indicators from the HDI report.
-- [data/resource_governance_index.xlsx](https://github.com/jensfinnas/pwyp-workshop/tree/master/data/resource_governance_index.xlsx) contains the RGI ranking, data about dependency on extractive industries and HDI data.
-- [data/world_bank_corruption_and_governance.xlsx](https://github.com/jensfinnas/pwyp-workshop/tree/master/data/world_bank_corruption_and_governance.xlsx) contains some indicators from the World Bank about corruption and governance.
+- `data/resource_governance_index.xlsx` is a collection of data based on the countries in the Revenue Watch Report report. Source: [Natural Resource Governace Institute](http://www.resourcegovernance.org/).
+- `data/eiti_report_gov_revenues.xlsx` contains all the data from the EITI reports. Source: [EITI](https://eiti.org/countries/reports).
+- `data/hdi_original_data.xlsx` is a reference file with data from Human Development Index. Source: [UNDP](http://hdr.undp.org/en/data).
+- `data/hdi_selected_indicators.xlsx` is a collection of key indicators from the HDI report.
+- `data/world_bank_corruption_and_governance.xlsx` contains some indicators from the World Bank about corruption and governance. Source: [World Bank](http://data.worldbank.org/)
 
 You are welcome to use other data sources as well such as:
 
