@@ -37,3 +37,10 @@ You are welcome to use other data sources as well such as:
 
 - [Global Investigative Journalism Network: Covering the Extractive Industries](http://gijn.org/resources/covering-the-extractive-industries/)
 - [Visualising Advocacy](http://visualisingadvocacy.org/) 
+
+### Visualizations shown in presentation
+
+- [Hans Rosling's 200 Countries, 200 Years, 4 Minutes](https://www.youtube.com/watch?v=jbkSRLYSojo) 
+- [Who are the richest people in Finland](http://jplusplus.se/u/taxtop/)
+- [A short story about how Finland is helping 2 million Syrian refugees](http://syrian-refugees.jplusplus.org/)
+- [NYC Taxis: A day in the life](http://nyctaxi.herokuapp.com/)
